@@ -8,13 +8,7 @@ This is a solution to the [Bento grid challenge on Frontend Mentor](https://www.
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -34,7 +28,6 @@ Users should be able to:
 - Solution URL: [Code](https://github.com/Alucardbus/bento-grid-frontendmentor)
 - Live Site URL: [Live](https://bento-grid-frontendmentor-five.vercel.app/)
 
-## My process
 
 ### Built with
 
